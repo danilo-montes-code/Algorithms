@@ -5,7 +5,7 @@ The goal of merge sort is
 
 
 ## Key Qualities
-In-Place? - 
-Stable?   - 
-Time Complexity = O()
-Space Complexity = O()
+In-Place? - No
+Stable?   - Yes
+Time Complexity = O(nlogn)
+Space Complexity = O(1)

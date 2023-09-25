@@ -1,7 +1,7 @@
 # Bubble Sort
 
 ## General Idea
-In bubble sort, we have the concepts of the sorted and unsorted parts of the array. 
+In bubble sort, we have the concepts of the sorted and unsorted parts of the array. In each iteration, we move the largest item in the unsorted portion of the array to the sorted portion. In this way, we move the largest element to the end of the list, similar to how `"bubbles"` rise to the surface.
 
 **First Iteration**:
 1. Starting with the first element of the array, we compare the element to the next one in the array.
